@@ -1,0 +1,12 @@
+E:\passerby\RFID\项目\UNIT14\UNIT14\bin\Debug\UNIT14.exe.config
+E:\passerby\RFID\项目\UNIT14\UNIT14\bin\Debug\UNIT14.exe
+E:\passerby\RFID\项目\UNIT14\UNIT14\bin\Debug\UNIT14.pdb
+E:\passerby\RFID\项目\UNIT14\UNIT14\obj\Debug\UNIT14.csprojResolveAssemblyReference.cache
+E:\passerby\RFID\项目\UNIT14\UNIT14\obj\Debug\UNIT14.Form1.resources
+E:\passerby\RFID\项目\UNIT14\UNIT14\obj\Debug\UNIT14.Properties.Resources.resources
+E:\passerby\RFID\项目\UNIT14\UNIT14\obj\Debug\UNIT14.csproj.GenerateResource.Cache
+E:\passerby\RFID\项目\UNIT14\UNIT14\obj\Debug\UNIT14.exe
+E:\passerby\RFID\项目\UNIT14\UNIT14\obj\Debug\UNIT14.pdb
+D:\16物联网1班\RFID\项目\UNIT16\UNIT14\bin\Debug\UNIT14.exe.config
+D:\16物联网1班\RFID\项目\UNIT16\UNIT14\obj\Debug\UNIT14.exe
+D:\16物联网1班\RFID\项目\UNIT16\UNIT14\obj\Debug\UNIT14.pdb

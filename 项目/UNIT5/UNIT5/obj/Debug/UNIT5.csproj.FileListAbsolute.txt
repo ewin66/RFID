@@ -1,0 +1,9 @@
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\bin\Debug\UNIT5.exe.config
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\bin\Debug\UNIT5.exe
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\bin\Debug\UNIT5.pdb
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\obj\Debug\UNIT5.csprojResolveAssemblyReference.cache
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\obj\Debug\UNIT5.Form1.resources
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\obj\Debug\UNIT5.Properties.Resources.resources
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\obj\Debug\UNIT5.csproj.GenerateResource.Cache
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\obj\Debug\UNIT5.exe
+D:\16物联网1班\RFID\项目\UNIT5\UNIT5\obj\Debug\UNIT5.pdb
